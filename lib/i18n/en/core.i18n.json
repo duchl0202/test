@@ -1,0 +1,13 @@
+{
+  "change_theme": "Change Theme",
+  "system": "System",
+  "light_mode": "Light Mode",
+  "dark_mode": "Dark Mode",
+  "amount": "Amount",
+  "is_required": "$field is required",
+  "interest": "Interest",
+  "period": "Period",
+  "emi_calculator": "EMI Calculator",
+  "month": "Month"
+  
+}
