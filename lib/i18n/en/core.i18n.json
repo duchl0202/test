@@ -8,6 +8,18 @@
   "interest": "Interest",
   "period": "Period",
   "emi_calculator": "EMI Calculator",
-  "month": "Month"
-  
+  "month": "Month",
+  "reset": "Reset",
+  "calculate": "Calculate",
+  "details": "Details",
+  "monthly_emi": "Monthly EMI",
+  "total_interest": "Total Interest",
+  "Processing_fee": "Processing Fee",
+  "total_payment": "Total Payment",
+  "loan_amount": "Loan Amount",
+  "principal": "Principal",
+  "balance": "Balance",
+  "payment": "Payment",
+  "total": "Total",
+  "total_month": "Total Months"
 }
